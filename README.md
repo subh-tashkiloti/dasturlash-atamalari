@@ -55,6 +55,7 @@ syntax | синтаксис | tuzilish qoidalari
 heading | заголовок | sarlavha
 metadata | метаданные | tavsif xabar
 case | регистр | ?
+global | мировой, глобальный | olamshumul
 application | приложение | ilova
 project | проект | loyiha
 convention | соглашение | kelishuv, kelishilingan odat
